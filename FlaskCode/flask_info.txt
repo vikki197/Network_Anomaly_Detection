@@ -1,0 +1,8 @@
+This the flask code.
+Install the requirements and run the file.
+We have two routes to use:
+1)networkrequest
+2)networkrequestthree
+
+The second route refers to the triple model the best model and all the files that triple_ included
+with all are the relevant pickles files where the models are saved.

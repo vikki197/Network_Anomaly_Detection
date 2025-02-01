@@ -1,0 +1,7 @@
+Here you will find all notebooks related to EDA.
+The notebooks are divided into categories as per feature space
+1) Basic Connections
+2) Content Related
+3) Time Based
+4) Host Based
+In addition to this, we have multiple EDA and observation files on the same

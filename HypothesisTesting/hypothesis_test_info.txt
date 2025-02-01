@@ -1,0 +1,4 @@
+Here you will find all notebooks regarding NAD hypothesis testing.
+Since we have an access of 40 fields, looping was done to test the hypotheses.
+We tested between target and other features and also among features, tests were also done
+Refer to NAD_hypothesis_final for consolidated tests
